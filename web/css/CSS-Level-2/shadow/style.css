@@ -1,0 +1,11 @@
+h1{
+    text-shadow: 3px 40px 3px rebeccapurple ;
+    text-shadow: 3px 40px 3px rebeccapurple,80px 80px 1px green;
+}
+.boxshadow{
+
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px  10px ;
+}

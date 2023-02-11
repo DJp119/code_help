@@ -1,0 +1,18 @@
+:root{
+
+    --dark-red:#981a2c;
+}
+.container{
+    border: 1px solid brown;
+    background-color: rebeccapurple;
+    height: 300px;
+    width: 300px;
+    background-color: var(--dark-red);
+}
+.box{
+    border: 2px solid gainsboro;
+    background-color: aliceblue;
+    color: chocolate;
+    --dark-red:#981a2c;
+    color: var(--dark-red)
+}
